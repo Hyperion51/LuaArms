@@ -1,8 +1,7 @@
-# LuaArms This
 ## 📜 License
 
-This project is licensed under the [PolyForm Shield License 1.0.0](https://polyformproject.org/licenses/shield/1.0.0/).
+This project is licensed under the [Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
 
-- Free for personal or internal use  
-- Commercial use is prohibited  
-- Modification and are prohibited
+- Free for personal and commercial use  
+- Modification is probihited
+- May not be redistributed in modified form  
